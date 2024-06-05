@@ -1,0 +1,41 @@
+{
+    "user": {
+        "fullName": "Sphesihle Mkhize",
+        "photo": "./mypic.jpg"
+    },
+    "city": {
+        "name": "Johannesburg",
+        "photo": "./my-city.jpeg",
+        "description": "Johannesburg the nice city and diverse city in South africa its have so many places that keeps the history"
+    },
+    "foreignLanguage": {
+        "language": "French",
+        "phrases": [
+            {
+                "englishPhrase": "Hello",
+                "foreignLanguage": "Bonjour"
+            },
+            {
+                "englishPhrase": "Thank you",
+                "foreignLanguage": "Merci"
+            }
+        ]
+    },
+    "favouriteSubjects": [
+        {
+            "name": "Statistics",
+            "description": "This historic site served as a prison complex that housed political activists.",
+            "photo": "./stat.jpeg"
+        },
+        {
+            "name": "Applied Mathematics",
+            "description": "This historic site served as a prison complex that housed political activists, ",
+            "photo": "./math.jpeg"
+        },
+        {
+            "name": "Computer Science",
+            "photo": "./comp.jpeg",
+            "description": "This historic site served as a prison complex that housed political activists, "
+        }
+    ]
+}
